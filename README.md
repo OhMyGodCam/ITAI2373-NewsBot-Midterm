@@ -43,3 +43,14 @@ It highlighted real-world patterns in writing styles across news categories and 
 
 ## 📎 Repository Link
 **GitHub Repository:** [https://github.com/OhMyGodCam/ITAI2373-NewsBot-Midterm](https://github.com/OhMyGodCam/ITAI2373-NewsBot-Midterm)
+
+
+## Final Project: NewsBot Intelligence System 2.0
+
+Built on top of the midterm NewsBot notebook.
+
+New features added for the final:
+- **Text Summarization:** Simple extractive summarizer that selects the most important sentences from an article.
+- **Semantic Search:** TF-IDF + cosine similarity to find the most relevant articles for a user’s query.
+- **Multilingual Intelligence:** Translation demo using English → Spanish → English and running analysis on the translated text.
+- **Conversational Interface:** Command-line style chat where the user can type `summary`, `search`, `translate`, or `quit` to interact with the system.
